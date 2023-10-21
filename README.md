@@ -15,9 +15,9 @@ https://technology-server-three.vercel.app/
 # All Product By Server:
 https://technology-server-three.vercel.app/allProduct
 ----
-# Cart Product By Server
+# Cart Product By Server:
 https://technology-server-three.vercel.app/cartProduct
 ---
-#Get Single Product By ID:
-https://technology-server-three.vercel.app/cartProduct/id
+# Get Single Product By ID:
+https://technology-server-three.vercel.app/allProduct/id
 ---
